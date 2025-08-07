@@ -1,7 +1,7 @@
 region         = "us-east-1"
 instance_type  = "t3.micro"
 instance_name  = "dev-ec2"
-subnet_name    = "repo-test"
+subnet_name    = "subnet-0656bd27cc31282dd"
 sg_id          = "sg-0ed2561591bfb9585"
 key_name       = "my-key"
 associate_public_ip = "true"
