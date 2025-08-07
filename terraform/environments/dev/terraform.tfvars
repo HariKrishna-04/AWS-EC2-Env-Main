@@ -1,5 +1,5 @@
 region         = "us-east-1"
-instance_type  = "t3.micro"
+instance_type  = "t2.micro"
 instance_name  = "dev-ec2"
 subnet_name    = "repo-test"
 sg_id          = "sg-0ed2561591bfb9585"
